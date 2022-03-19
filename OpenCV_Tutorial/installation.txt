@@ -1,0 +1,3 @@
+cd ...\OpenCV_Tutorial
+pip install opencv-python
+jupyter notebook
